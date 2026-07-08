@@ -4,6 +4,6 @@ slug  : graviton-v2
 seal  : b2ca9864643a11e92bf5d49364a7ab00f4f25a8f2ca950c8505d19b9524fda26
 prev  : f384a71a8d6aab9106c2d26ec22b6c3a03abf9d13fdcb5506cf3cc2893cb8eed
 link  : 67aab8db5e72499cb62592656148832706a0fbef1a8bd6f023a062e0ea644563
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
